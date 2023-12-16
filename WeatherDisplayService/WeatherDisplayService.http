@@ -1,0 +1,4 @@
+@WeatherDisplayService_HostAddress = http://localhost:5176
+
+GET {{WeatherDisplayService_HostAddress}}/weather?latitude=41.472574057196645&longitude=-82.14031959831098
+Authorization: Bearer E8D624B5-14A2-4909-BF81-E876AC032F34
